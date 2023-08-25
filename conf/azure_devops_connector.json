@@ -1,0 +1,8 @@
+{
+    "pat_token": "token_here",
+    "org": "my_org",
+    "email_from": "your_email",
+    "email_host": "your_smtp",
+    "email_port": 465,
+    "email_password": "your_email_pass"
+}
